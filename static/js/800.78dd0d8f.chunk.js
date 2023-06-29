@@ -1,0 +1,1 @@
+(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[800,267],{11922:function(){},78848:function(){},71456:function(){},24654:function(){}}]);
