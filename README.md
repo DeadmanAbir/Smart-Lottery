@@ -31,4 +31,4 @@ After this you will have the project fully installed on your system.
 ## Disclaimer
 
 This project is not fully optimized as it is developed by me individually. You can always create a PR for better optimization. 
-Connect with me -
+- <b>Connect with me -</b> [Click](https://abir-dutta-porfolio.netlify.app/)
